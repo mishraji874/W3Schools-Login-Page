@@ -1,0 +1,139 @@
+.account{
+    display: inline;
+    margin-left:150px;
+    margin-bottom: 10px;
+    font-size: small;
+    font-family: 'Roboto', sans-serif;
+    
+} 
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #13ad5d;
+    padding: 10px 145px 10px 145px;
+    text-decoration: none;
+    margin-top: 50px;
+    border: none;
+  }
+
+  .btn-2 {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #13ad5d;
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    margin-top: 50px;
+    border: none;
+   margin-left: 400px;
+  }
+  
+  .btn:hover {
+    background: #0c8243;
+    text-decoration: none;
+  }
+
+  .btn-2:hover {
+    background: #0c8243;
+    text-decoration: none;
+  }
+
+
+
+.elements {
+ 
+    margin: 50px auto;
+    width: 350px;
+    height: 400px;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Roboto', sans-serif;
+  font-size: x-large;
+}
+
+#Email {
+    width: 350px;
+    height: 45px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: solid;
+    border-color: #EFF5F5;
+}
+
+
+
+.footer {
+    margin-top: 10px;
+    width: 980px;
+    height: 100px;
+}
+
+.middle {
+    width: 450px;
+    height: 500px;
+ border: solid 2px;
+ border-radius: 15px;
+ border-color:#EFF5F5;
+    margin: 50px auto;
+}
+
+.password-div {
+    margin-top: 40px;
+}
+
+
+#Password {
+    width: 343px;
+    height: 50px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: solid;
+    border-color: #EFF5F5;
+}
+
+.password {
+    margin-top: 25px;
+    margin-left: 120px;
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+    
+}
+
+.foot {
+   display: inline;
+font-size: smaller;
+    color: grey;
+    font-family: 'Roboto', sans-serif;
+}
+
+span {
+    color: #13ad5d;
+}
+
+.logo {
+    width: 90%;
+}
+
+.top {
+    width: 100px;
+    height: 50px;
+    margin-top: 15px;
+}
+
+.label-email {
+    font-family: 'Roboto', sans-serif;
+}
+
+.label-password {
+    font-family: 'Roboto', sans-serif;
+}
